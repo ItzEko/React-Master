@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#caja{
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  text-align: center;
+  line-height: 190px;
+  color: black;
+}
